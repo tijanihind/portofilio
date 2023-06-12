@@ -1,13 +1,13 @@
 
-# Portfolio Website
+# Portofilio Website
 
 ## Introduction
 
 This repository contains the code for a personal portfolio website designed to showcase my work and services. The website features three main sections: "Projects", "Services", and "Contact". It is a responsive and user-friendly platform to connect with me and view my accomplishments.
 
-You can access the website at [My Portfolio](https://tijanihind.github.io/portofilio/)
+You can access the website at [My Portofilio](https://tijanihind.github.io/portofilio/)
 
-![Portfolio Website Screenshot](./imagespor/Screenshot%202023-06-12%20124608.png)
+![Portofilio Website Screenshot](./imagespor/Screenshot%202023-06-12%20124608.png)
 
 ## Website Sections
 
